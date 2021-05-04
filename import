@@ -10,6 +10,10 @@ public class PaintCost
              paintCost, laborCost, totalCost = 0;
       int numOfRooms;
       
+      
+      String text = "Computer Hardware Graphics Quality Recommendation Tool";
+      
+      
       //constants to hold fixed values
       final double PAINT_COST_PER_GALLON = 60.00;
       final double SQUARE_FT_PER_GALLON = 250; 
