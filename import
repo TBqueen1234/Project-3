@@ -12,6 +12,7 @@ public class PaintCost
       
       
       String text = "Computer Hardware Graphics Quality Recommendation Tool";
+      // need to make changes
       
       
       //constants to hold fixed values
